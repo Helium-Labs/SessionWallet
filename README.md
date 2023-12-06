@@ -100,11 +100,12 @@ The following breaks down relevant security features.
 
 Many extensions and features are planned, particularly focusing on Web3 gaming, however they are withheld for now as they're developed internally.
 
-## Keywords (for SEO)
-
-SessionWallet, Authority delegation, Client-side, signed claims, Zero Knowledge Proof, User Session Specific Wallet, hyperlocalised and context specific wallets with a central access point, Algorand, Account Abstraction, Wallet Abstraction, Logic Signature, Contract Account, Web3 games, MetaMask, Pera Mobile, Ephemeral Key, Delegating Transaction, TEAL code, Signature validation, Blockchain, Least Privilege, Transaction approval
-
 ## Contribution Statement
 
 To the best of my knowledge the concept is novel, and it was researched and developed independently by the author. The idea came to me many months ago.
 All applicable rights reserved. My intention is to develop this idea into a product if possible.
+
+
+**Keywords (for SEO)**
+
+SessionWallet, Authority delegation, Client-side, signed claims, Zero Knowledge Proof, User Session Specific Wallet, hyperlocalised and context specific wallets with a central access point, Algorand, Account Abstraction, Wallet Abstraction, Logic Signature, Contract Account, Web3 games, MetaMask, Pera Mobile, Ephemeral Key, Delegating Transaction, TEAL code, Signature validation, Blockchain, Least Privilege, Transaction approval
