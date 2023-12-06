@@ -102,8 +102,8 @@ Many extensions and features are planned, particularly focusing on Web3 gaming, 
 
 ## Contribution Statement
 
-As far as I'm aware, the method and approach I've crafted are quite unique. I'm grateful to the Algorand community for their invaluable support they have offered. The idea came to me a few months ago.
-I reserve all applicable rights. It is my aim to bring this idea to fruition as a tangible product, provided that it is feasible to do so.
+As far as I'm aware, the method and approach above is novel particularly its application in creating application specific contextual wallets. I'm grateful to the Algorand community for their invaluable support they have offered. 
+All applicable rights reserved.
 
 ## Disclaimer
 
