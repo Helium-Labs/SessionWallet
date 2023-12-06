@@ -2,13 +2,13 @@
 
 **By Winton Nathan-Roberts (Sydney, Australia)**
 
-Tired of the constant confirmation pop-ups every time you play an online game, or in the case of Algorand opt into an asset? Concerned about the security risks to your digital wallet with each transaction? SessionWallet is set to transform your Web3 experience, eliminating these hassles altogether.
+Tired of the constant confirmation pop-ups every time you play an online game, or in the case of Algorand opt into an asset? Concerned about the security risks to your digital wallet with each transaction?
 \
 \
-Web3 gaming and platforms often suffer from transactional delays and security headaches. Up until now, users had to confirm every transaction or worry about their main wallet's safety. SessionWallet changes the game with a secure, user-friendly approach: delegate the authority to site-specific wallets designed for low-friction Web3 interactions.
+Web3 gaming and platforms often suffer from transactional delays and security headaches. Up until now, users had to confirm every transaction or worry about their main wallet’s safety. SessionWallet has the potential to change the game with a secure, user-friendly approach: delegate the authority to site-specific wallets designed for low-friction Web3 interactions.
 \
 \
-Imagine effortlessly executing multiple transactions during your gaming or DeFi sessions, secure in the knowledge that your main wallet is safe. Ready to learn how SessionWallet can make your Web3 interactions more secure, efficient, and enjoyable? Dive into our Medium article and discover how this innovative solution is reshaping the future of digital asset management.
+Imagine effortlessly executing multiple transactions during your gaming or DeFi sessions, secure in the knowledge that your main wallet is safe. Ready to learn how SessionWallet can make your Web3 interactions more secure, efficient, and enjoyable? Dive into our Medium article and discover how this innovative solution is reshaping the future of low-friction non-custodial application specific auth.
 \
 \
 P.s. I'm not trying to sell you anything, other than just to show you a cool idea and an MVP, which may be turned into a product. Please do your own research to confirm any claims made.
