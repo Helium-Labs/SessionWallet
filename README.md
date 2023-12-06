@@ -1,6 +1,6 @@
 # SessionWallet: Streamlining Web3 Transactions with Delegated Authority and Site-Specific Wallets
 
-**By Winton Nathan-Roberts**
+**By Winton Nathan-Roberts (Sydney, Australia)**
 
 ## Introduction
 
@@ -111,4 +111,4 @@ All rights reserved. My intention is to develop this idea into a product.
 
 ## Contribution Statement
 
-To the best of my knowledge the concept is novel, and it was researched and developed independently by the author, **Winton Nathan-Roberts (Sydney, Australia)**. The idea came to me many months ago.
+To the best of my knowledge the concept is novel, and it was researched and developed independently by the author. The idea came to me many months ago.
