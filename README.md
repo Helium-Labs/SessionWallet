@@ -109,7 +109,7 @@ The following breaks down relevant security features.
 
 ## Future Work
 
-Many extensions and features are planned, particularly focusing on Web3 gaming, however they are withheld for now as they're developed internally.
+Many extensions and features are planned, particularly focusing on Web3 gaming, however they are withheld for now as they're developed internally. In theory, it should support any blockchain that allows contract accounts and typical opcodes as needed in the above pseudo-code. The pseudo-code gives a specific implementation, however it can generalize to any number of recovery keys, different types of ECC curves like ECDSA, and parameter allocations to different fields of the signed transction, for example using the first validity to store the expiration time.
 
 ## Contribution Statement
 
