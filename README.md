@@ -1,5 +1,7 @@
 # SessionWallet: Streamlining Web3 Transactions with Delegated Authority and Site-Specific Wallets
 
+**By Winton Nathan-Roberts**
+
 ## Introduction
 
 SessionWallet introduces a mechanism for delegating authority from an existing wallet to a website-specific, reproducible wallet for short-term client-side sessions. This method enables the use of an existing wallet to sign transactions on behalf of the user without requiring constant user approval for each transaction. It's particularly beneficial for applications like Web3 games, offering portability with widely-used wallets like MetaMask or Pera on Mobile. The wallet doesn't need to support signing raw bytes to enable delegation, instead any wallet can be supported as it has powerful on-chain parsing to validate the delegating transaction signature. It's implemented on Algorand, however it can be extended to any blockchain that supports contract accounts.
