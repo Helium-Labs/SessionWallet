@@ -62,7 +62,7 @@ SessionWallet(delegateTx, delegateTxSig, delgTxIdSig):
 - `delegateTx` doesn't need to be submitted to the blockchain, it's just a proof of authority from the owner to delegate access to a the delegated ED25519 key (`cspk`)
 - Reproduce the TEAL code SessionWallet with values for the `owners` (consisting of Owner Wallet and a recovery key if any), and `origin` (origin) template variables of the SessionWallet TEAL denoted `SessionWallet(owners, origin)`
   - Values for `owners` and `origin` may need to be stored in a database for future use, or be retrieved if there's multiple owners (i.e. a recovery key)
-  - 
+
 ### 3. Signing
 
 - Follow the Authentication procedure to yield `SessionWallet(owners, origin)`
@@ -104,11 +104,7 @@ Many extensions and features are planned, particularly focusing on Web3 gaming, 
 
 SessionWallet, Authority delegation, Client-side, signed claims, Zero Knowledge Proof, User Session Specific Wallet, hyperlocalised and context specific wallets with a central access point, Algorand, Account Abstraction, Wallet Abstraction, Logic Signature, Contract Account, Web3 games, MetaMask, Pera Mobile, Ephemeral Key, Delegating Transaction, TEAL code, Signature validation, Blockchain, Least Privilege, Transaction approval
 
-
-## License and Attribution
-
-All rights reserved. My intention is to develop this idea into a product.
-
 ## Contribution Statement
 
 To the best of my knowledge the concept is novel, and it was researched and developed independently by the author. The idea came to me many months ago.
+All applicable rights reserved. My intention is to develop this idea into a product if possible.
