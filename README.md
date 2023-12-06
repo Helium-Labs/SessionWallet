@@ -102,7 +102,7 @@ Many extensions and features are planned, particularly focusing on Web3 gaming, 
 
 ## Contribution Statement
 
-As far as I'm aware, the method and approach above is novel particularly its application in creating application specific contextual wallets. I'm grateful to the Algorand community for their invaluable support. 
+As far as I'm aware, the method and approach above is novel particularly its application in creating application specific contextual wallets through delegating transactions. I'm grateful to the Algorand community for their invaluable support. 
 All applicable rights reserved.
 
 ## Disclaimer
