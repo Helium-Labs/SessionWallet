@@ -102,7 +102,8 @@ Many extensions and features are planned, particularly focusing on Web3 gaming, 
 
 ## Contribution Statement
 
-To the best of my knowledge the concept is novel, and it was researched and developed independently by the author. The idea came to me many months ago.
+To the best of my knowledge the concept is novel, and it was researched and developed independently by the author. I acknowledge I didn't work in a complete vacuum, and gained support of the Algorand community to learn. Thanks to the community for the support. The idea came to me many months ago.
+
 All applicable rights reserved. My intention is to develop this idea into a product if possible.
 
 ## Disclaimer
