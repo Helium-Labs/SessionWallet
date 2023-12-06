@@ -105,6 +105,9 @@ Many extensions and features are planned, particularly focusing on Web3 gaming, 
 To the best of my knowledge the concept is novel, and it was researched and developed independently by the author. The idea came to me many months ago.
 All applicable rights reserved. My intention is to develop this idea into a product if possible.
 
+## Disclaimer
+
+No warranties or liabilities to the fullest extent of the law. This work isn't a product yet, it still remains closed, not for public use and in R&D. The above method is not tested for security, and isn't ready for production use necessarily.
 
 **Keywords (for SEO)**
 
