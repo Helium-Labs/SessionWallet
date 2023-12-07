@@ -1,6 +1,7 @@
 # SessionWallet: Streamlining Web3 Transactions with Delegated Authority and Site-Specific Wallets
 
 **By Winton Nathan-Roberts (Sydney, Australia)**
+\
 **EDIT: I'm going to clarify the explanation a bit when I find time, the structure of the solution will remain identical, however the clarity of the explanation will improve. Stay tuned!**
 
 Tired of the constant confirmation pop-ups every time you play an online game, or in the case of Algorand opt into an asset? Concerned about the security risks to your digital wallet with each transaction?
