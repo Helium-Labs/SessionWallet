@@ -13,7 +13,7 @@ Web3 gaming and platforms often suffer from transactional delays and security he
 Imagine effortlessly executing multiple transactions during your gaming or DeFi sessions, secure in the knowledge that your main wallet is safe. Ready to learn how SessionWallet can make your Web3 interactions more secure, efficient, and enjoyable? Dive into our Medium article and discover how this innovative solution is reshaping the future of low-friction non-custodial application specific auth.
 \
 \
-P.s. I'm not trying to sell you anything, other than just to show you a cool idea and an MVP, which may be turned into a product. Please do your own research to confirm any claims made.
+P.s. I'm not trying to sell you anything, other than just to show you a cool idea and an MVP, which may be turned into a product. Please do your own research to confirm any claims made. The name may not stick around, SessionWallet is an internal identifier. It doesn't necessarily relate to any other project I'm working on and can be viewed in isolation.
 
 ## Introduction
 
