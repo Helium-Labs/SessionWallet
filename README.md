@@ -120,7 +120,7 @@ All applicable rights reserved.
 
 ## Disclaimer
 
-No warranties or liabilities to the fullest extent of the law. This work isn't a product yet, it still remains closed, not for public use and in R&D. The above method is not tested for security, and isn't ready for production use necessarily.
+No warranties or liabilities to the fullest extent of the law. This work isn't a product yet, it still remains closed, not for public use and in R&D. It may never be released. The above method is not tested for security, and isn't ready for production use necessarily.
 
 **Keywords (for SEO)**
 
