@@ -1,9 +1,17 @@
 # SessionWallet: Streamlining Web3 Transactions with Delegated Authority and Site-Specific Wallets
 
+**About this document:**
+- The project is independent and not linked to any other projects or organizations. It's best to consider it in isolation. Initially, the system will be tested on a blockchain testnet, and further actions will be determined based on these tests.
+- Even after significant refinement and successful operation on the testnet, it's possible that the project may not be feasible for further development.
+- The development is being done openly, specifically to prevent the patenting of the methods being developed. Public disclosure is a key aspect of this strategy.
+- This document is not a cryptocurrency asset whitepaper.
+- This is not an attempt to sell anything or an advertisement of any kind.
+- Currently, the service discussed in this document is not available to the public and it might never be released.
+- It's important to read the disclaimers at the end of the document.
+- The document is a 'living' one, meaning it will undergo significant changes as the method is refined, which is a normal part of research and development.
+
 **By Winton Nathan-Roberts (Sydney, Australia)**
 \
-**EDIT: I'm going to clarify the explanation a bit when I find time, the structure of the solution will remain identical, however the clarity of the explanation will improve. Stay tuned!**
-
 Tired of the constant confirmation pop-ups every time you play an online game, or in the case of Algorand opt into an asset? Concerned about the security risks to your digital wallet with each transaction?
 \
 \
@@ -120,7 +128,19 @@ All applicable rights reserved.
 
 ## Disclaimer
 
-No warranties or liabilities to the fullest extent of the law. This work isn't a product yet, it still remains closed, not for public use and in R&D. It may never be released. The above method is not tested for security, and isn't ready for production use necessarily.
+This content, including texts, graphics, code, etc., is for informational purposes and provided 'as is' without guarantees.
+
+- NO WARRANTIES: We offer no warranties or guarantees, explicit or implied.
+- NO LIABILITY: We are not liable for any damages from using or inability to use this content.
+- OWNERSHIP OF IMPROVEMENTS: Any feedback or ideas from the public contributing to the enhancement of this solution are exclusively owned by the author and Zorkin, assuming such ownership is legally permissible.
+- NON-PATENTABILITY: The content, by virtue of being publicly available online, is not novel. Therefore any novel contributions made by the document and its trivial extensions cannot be patented, except where legal. Patent laws require novelty and non-obviousness. An exception is the author of the work has a 1-year grace period in many countries from the time of their publication to file a patent at their discretion.
+- INDEPENDENCE: We do not necessarily have a direct affiliation with any party mentioned or implied besides Zorkin.
+- INDEMNIFICATION: You must defend and indemnify us against all claims and damages from your use of the content.
+- NOT PRODUCTION READY: The content may have vulnerabilities and is not for production use.
+- USE AT YOUR OWN RISK: You are solely responsible for using the content and ensuring its legal compliance.
+- UNVERIFIED CLAIMS: Claims in the content are not independently verified; do your own research before relying on them.
+
+This disclaimer is applied to the fullest extent permitted by law. By using the content, you accept these terms. Note: I am not a legal professional. TLDR: it's an idea and an MVP, that I may or may not continue to work on at my discretion. Everything is subject to change, including the name.
 
 **Keywords (for SEO)**
 
